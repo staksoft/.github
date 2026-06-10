@@ -32,15 +32,15 @@ We provide end-to-end software engineering and product development services:
 
 We build professional, AI-powered tools designed to enhance productivity and security:
 
-### 1. [Scan2PDF - Professional AI Document Scanner](https://www.staksoft.com/scan2pdf)
+### 1. <img src="https://www.staksoft.com/images/scan2pdf/logo.png" width="28" height="28" align="center" /> [Scan2PDF - Professional AI Document Scanner](https://www.staksoft.com/scan2pdf)
 Transform paper into professional PDFs with ease. Scan, sign, and manage your documents using powerful AI tools—all with 100% on-device privacy.
 * **Available on:** [Google Play Store](https://play.google.com/store/apps/details?id=com.staksoft.pdfaigen)
 
-### 2. [Scan2Call - Smart Contact Scanner](https://www.staksoft.com/scan2call)
+### 2. <img src="https://www.staksoft.com/images/scan2call-logo.png" width="28" height="28" align="center" /> [Scan2Call - Smart Contact Scanner](https://www.staksoft.com/scan2call)
 Stop typing phone numbers manually. Scan2Call uses AI-powered OCR to instantly extract contacts from business cards, documents, and phone screens.
 * **Available on:** [Google Play Store](https://play.google.com/store/apps/details?id=com.mohdahmad.scan2call)
 
-### 3. [PDFaiGen - Secure Offline PDF & AI Toolkit](https://pdfaigen.com)
+### 3. <img src="https://pdfaigen.com/images/logo.svg" width="28" height="28" align="center" /> [PDFaiGen - Secure Offline PDF & AI Toolkit](https://pdfaigen.com)
 The ultimate tool for secure document productivity. Edit, merge, and chat with your PDFs using local AI models that run 100% in your browser—no uploads required.
 * **Available at:** [PDFaiGen Web App](https://pdfaigen.com)
 
